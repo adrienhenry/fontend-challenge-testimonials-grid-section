@@ -51,7 +51,7 @@ h3 .status {
     'testimony3 testimony4 testimony4 testimony5';
     gap: 25px 30px;
     width: 1110px;
-    margin: 165px auto 100px;
+    margin: 165px auto 70px;
 }}
 @media only screen and (max-width: 1109px){
     .grid-container{
